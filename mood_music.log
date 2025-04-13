@@ -1,0 +1,438 @@
+2025-04-07 12:28:05,833 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:28:05,833 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:28:05,836 - INFO -  * Restarting with stat
+2025-04-07 12:28:10,235 - WARNING -  * Debugger is active!
+2025-04-07 12:28:10,239 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:28:31,982 - INFO - 127.0.0.1 - - [07/Apr/2025 12:28:31] "GET / HTTP/1.1" 200 -
+2025-04-07 12:28:32,299 - INFO - 127.0.0.1 - - [07/Apr/2025 12:28:32] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:28:32,355 - INFO - 127.0.0.1 - - [07/Apr/2025 12:28:32] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-04-07 12:28:32,475 - INFO - 127.0.0.1 - - [07/Apr/2025 12:28:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 12:30:25,579 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:25] "GET / HTTP/1.1" 200 -
+2025-04-07 12:30:25,611 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:30:25,839 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:25] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-04-07 12:30:46,465 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:46] "GET / HTTP/1.1" 200 -
+2025-04-07 12:30:46,733 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:30:46,782 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:46] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-04-07 12:30:50,900 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:50] "GET / HTTP/1.1" 200 -
+2025-04-07 12:30:51,231 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:30:51,232 - INFO - 127.0.0.1 - - [07/Apr/2025 12:30:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-04-07 12:31:39,982 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:31:40,343 - INFO -  * Restarting with stat
+2025-04-07 12:31:48,148 - INFO -  * Restarting with stat
+2025-04-07 12:38:23,478 - INFO - Successfully imported mood music components
+2025-04-07 12:38:23,480 - INFO - Mood music components initialized successfully
+2025-04-07 12:38:23,497 - WARNING -  * Debugger is active!
+2025-04-07 12:38:23,501 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:38:45,275 - INFO - Successfully imported mood music components
+2025-04-07 12:38:45,277 - INFO - Mood music components initialized successfully
+2025-04-07 12:38:45,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:38:45,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:38:45,310 - INFO -  * Restarting with stat
+2025-04-07 12:38:49,134 - INFO - Successfully imported mood music components
+2025-04-07 12:38:49,136 - INFO - Mood music components initialized successfully
+2025-04-07 12:38:49,153 - WARNING -  * Debugger is active!
+2025-04-07 12:38:49,157 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:38:54,990 - INFO - Serving index page
+2025-04-07 12:38:54,998 - INFO - 127.0.0.1 - - [07/Apr/2025 12:38:54] "GET / HTTP/1.1" 200 -
+2025-04-07 12:38:55,318 - INFO - 127.0.0.1 - - [07/Apr/2025 12:38:55] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:38:55,367 - INFO - 127.0.0.1 - - [07/Apr/2025 12:38:55] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-04-07 12:39:07,330 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:39:07,603 - INFO -  * Restarting with stat
+2025-04-07 12:39:12,119 - INFO - Successfully imported mood music components
+2025-04-07 12:39:12,121 - INFO - Mood music components initialized successfully
+2025-04-07 12:39:12,139 - WARNING -  * Debugger is active!
+2025-04-07 12:39:12,143 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:42:24,394 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:42:24,732 - INFO -  * Restarting with stat
+2025-04-07 12:45:09,836 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:45:09,989 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:45:11,140 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:45:11,140 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:45:11,143 - INFO -  * Restarting with stat
+2025-04-07 12:45:14,583 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:45:14,634 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:45:15,702 - WARNING -  * Debugger is active!
+2025-04-07 12:45:15,706 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:45:37,972 - INFO - 127.0.0.1 - - [07/Apr/2025 12:45:37] "GET / HTTP/1.1" 200 -
+2025-04-07 12:45:38,283 - INFO - 127.0.0.1 - - [07/Apr/2025 12:45:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:45:38,288 - INFO - 127.0.0.1 - - [07/Apr/2025 12:45:38] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 12:45:38,923 - INFO - 127.0.0.1 - - [07/Apr/2025 12:45:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 12:45:56,388 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:45:57,526 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:45:58,683 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:46:01,784 - INFO - 127.0.0.1 - - [07/Apr/2025 12:46:01] "POST /analyze HTTP/1.1" 200 -
+2025-04-07 12:48:31,037 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:48:31,360 - INFO -  * Restarting with stat
+2025-04-07 12:48:35,741 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:48:35,797 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:48:36,987 - WARNING -  * Debugger is active!
+2025-04-07 12:48:36,992 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:49:43,506 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:49:43,801 - INFO -  * Restarting with stat
+2025-04-07 12:49:48,039 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:49:48,092 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:49:49,268 - WARNING -  * Debugger is active!
+2025-04-07 12:49:49,272 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:49:56,430 - INFO - 127.0.0.1 - - [07/Apr/2025 12:49:56] "GET / HTTP/1.1" 200 -
+2025-04-07 12:49:56,519 - INFO - 127.0.0.1 - - [07/Apr/2025 12:49:56] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:49:56,680 - INFO - 127.0.0.1 - - [07/Apr/2025 12:49:56] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 12:50:08,566 - WARNING - No speech detected in the audio
+2025-04-07 12:50:08,567 - INFO - 127.0.0.1 - - [07/Apr/2025 12:50:08] "[31m[1mPOST /transcribe HTTP/1.1[0m" 400 -
+2025-04-07 12:50:15,452 - WARNING - No speech detected in the audio
+2025-04-07 12:50:15,453 - INFO - 127.0.0.1 - - [07/Apr/2025 12:50:15] "[31m[1mPOST /transcribe HTTP/1.1[0m" 400 -
+2025-04-07 12:51:35,024 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:51:35,292 - INFO -  * Restarting with stat
+2025-04-07 12:51:38,991 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:51:39,039 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:51:40,078 - WARNING -  * Debugger is active!
+2025-04-07 12:51:40,082 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:52:22,383 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:52:22,629 - INFO -  * Restarting with stat
+2025-04-07 12:52:26,143 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:52:26,188 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:52:27,214 - WARNING -  * Debugger is active!
+2025-04-07 12:52:27,219 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:53:01,732 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:53:01,778 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:53:02,850 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:53:02,851 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:53:02,853 - INFO -  * Restarting with stat
+2025-04-07 12:53:06,342 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:53:06,390 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:53:07,412 - WARNING -  * Debugger is active!
+2025-04-07 12:53:07,416 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:53:10,367 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:10] "GET / HTTP/1.1" 200 -
+2025-04-07 12:53:10,693 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:53:10,745 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:10] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 12:53:19,405 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:19] "POST /transcribe HTTP/1.1" 200 -
+2025-04-07 12:53:22,427 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:23,564 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:24,678 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:24,773 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:24] "POST /analyze HTTP/1.1" 200 -
+2025-04-07 12:53:30,494 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:30] "POST /transcribe HTTP/1.1" 200 -
+2025-04-07 12:53:32,247 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:33,395 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:34,524 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:34,528 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:34] "POST /analyze HTTP/1.1" 200 -
+2025-04-07 12:53:43,655 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:43] "POST /transcribe HTTP/1.1" 200 -
+2025-04-07 12:53:45,365 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:46,475 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:47,607 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:53:47,611 - INFO - 127.0.0.1 - - [07/Apr/2025 12:53:47] "POST /analyze HTTP/1.1" 200 -
+2025-04-07 12:53:58,937 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:54:00,061 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:54:01,160 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 12:54:01,164 - INFO - 127.0.0.1 - - [07/Apr/2025 12:54:01] "POST /analyze HTTP/1.1" 200 -
+2025-04-07 12:54:57,159 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:54:57,472 - INFO -  * Restarting with stat
+2025-04-07 12:55:01,562 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:55:01,609 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:55:02,736 - WARNING -  * Debugger is active!
+2025-04-07 12:55:02,740 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:55:10,818 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\Spotifyrecommend.py', reloading
+2025-04-07 12:55:11,095 - INFO -  * Restarting with stat
+2025-04-07 12:55:14,888 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:55:14,933 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:55:15,973 - WARNING -  * Debugger is active!
+2025-04-07 12:55:15,977 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:55:28,080 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:55:28,381 - INFO -  * Restarting with stat
+2025-04-07 12:55:32,202 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:55:32,248 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:55:51,242 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:55:51,296 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:55:52,528 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:55:52,528 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:55:52,530 - INFO -  * Restarting with stat
+2025-04-07 12:55:56,593 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:55:56,646 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:55:57,834 - WARNING -  * Debugger is active!
+2025-04-07 12:55:57,839 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:55:57,866 - INFO - 127.0.0.1 - - [07/Apr/2025 12:55:57] "GET / HTTP/1.1" 200 -
+2025-04-07 12:55:57,983 - INFO - 127.0.0.1 - - [07/Apr/2025 12:55:57] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:55:58,241 - INFO - 127.0.0.1 - - [07/Apr/2025 12:55:58] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 12:56:03,300 - ERROR - Error processing audio data: Error opening <_io.BytesIO object at 0x000001BA78152570>: Format not recognised.
+2025-04-07 12:56:03,301 - INFO - 127.0.0.1 - - [07/Apr/2025 12:56:03] "[31m[1mPOST /transcribe HTTP/1.1[0m" 400 -
+2025-04-07 12:56:41,194 - INFO -  * Detected change in 'C:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:56:41,506 - INFO -  * Restarting with stat
+2025-04-07 12:56:45,910 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:56:45,964 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:56:47,161 - WARNING -  * Debugger is active!
+2025-04-07 12:56:47,165 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:57:38,555 - INFO -  * Detected change in 'C:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 12:57:38,834 - INFO -  * Restarting with stat
+2025-04-07 12:57:50,900 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:57:50,952 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:57:52,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 12:57:52,155 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:57:52,158 - INFO -  * Restarting with stat
+2025-04-07 12:57:56,208 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 12:57:56,261 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 12:57:57,457 - WARNING -  * Debugger is active!
+2025-04-07 12:57:57,462 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 12:57:58,350 - INFO - 127.0.0.1 - - [07/Apr/2025 12:57:58] "GET / HTTP/1.1" 200 -
+2025-04-07 12:57:58,668 - INFO - 127.0.0.1 - - [07/Apr/2025 12:57:58] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 12:57:58,713 - INFO - 127.0.0.1 - - [07/Apr/2025 12:57:58] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 12:58:04,517 - ERROR - FFmpeg not found. Please install ffmpeg.
+2025-04-07 12:58:04,518 - INFO - 127.0.0.1 - - [07/Apr/2025 12:58:04] "[35m[1mPOST /transcribe HTTP/1.1[0m" 500 -
+2025-04-07 13:00:53,720 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\Spotifyrecommend.py', reloading
+2025-04-07 13:00:54,033 - INFO -  * Restarting with stat
+2025-04-07 13:00:58,011 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:00:58,060 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:00:59,145 - WARNING -  * Debugger is active!
+2025-04-07 13:00:59,150 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:01:39,602 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:01:39,653 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:01:40,841 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:01:40,842 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:01:40,844 - INFO -  * Restarting with stat
+2025-04-07 13:01:44,862 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:01:44,916 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:01:46,194 - WARNING -  * Debugger is active!
+2025-04-07 13:01:46,199 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:01:51,751 - INFO - 127.0.0.1 - - [07/Apr/2025 13:01:51] "GET / HTTP/1.1" 200 -
+2025-04-07 13:01:52,071 - INFO - 127.0.0.1 - - [07/Apr/2025 13:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:01:52,115 - INFO - 127.0.0.1 - - [07/Apr/2025 13:01:52] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 13:01:57,445 - ERROR - FFmpeg not found. Please install ffmpeg.
+2025-04-07 13:01:57,445 - INFO - 127.0.0.1 - - [07/Apr/2025 13:01:57] "[35m[1mPOST /transcribe HTTP/1.1[0m" 500 -
+2025-04-07 13:05:15,555 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 13:05:15,863 - INFO -  * Restarting with stat
+2025-04-07 13:06:47,994 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:06:47,995 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:06:47,998 - INFO -  * Restarting with stat
+2025-04-07 13:06:51,911 - WARNING -  * Debugger is active!
+2025-04-07 13:06:51,917 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:06:56,324 - INFO - 127.0.0.1 - - [07/Apr/2025 13:06:56] "GET / HTTP/1.1" 200 -
+2025-04-07 13:06:56,633 - INFO - 127.0.0.1 - - [07/Apr/2025 13:06:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-07 13:06:56,637 - INFO - 127.0.0.1 - - [07/Apr/2025 13:06:56] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:06:57,121 - INFO - 127.0.0.1 - - [07/Apr/2025 13:06:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 13:07:04,735 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:07:06,538 - WARNING - No speech detected in the audio
+2025-04-07 13:07:06,604 - INFO - 127.0.0.1 - - [07/Apr/2025 13:07:06] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:07:12,715 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:07:14,528 - WARNING - No speech detected in the audio
+2025-04-07 13:07:14,587 - INFO - 127.0.0.1 - - [07/Apr/2025 13:07:14] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:07:27,713 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:07:28,894 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:07:30,007 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:07:30,120 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:07:30,155 - INFO - 127.0.0.1 - - [07/Apr/2025 13:07:30] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 13:07:41,281 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:07:42,956 - WARNING - No speech detected in the audio
+2025-04-07 13:07:43,016 - INFO - 127.0.0.1 - - [07/Apr/2025 13:07:43] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:09:01,886 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 13:09:02,182 - INFO -  * Restarting with stat
+2025-04-07 13:09:06,426 - WARNING -  * Debugger is active!
+2025-04-07 13:09:06,432 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:10:25,584 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:10:25,585 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:10:25,587 - INFO -  * Restarting with stat
+2025-04-07 13:10:29,548 - WARNING -  * Debugger is active!
+2025-04-07 13:10:29,552 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:10:37,183 - INFO - 127.0.0.1 - - [07/Apr/2025 13:10:37] "GET / HTTP/1.1" 200 -
+2025-04-07 13:10:37,491 - INFO - 127.0.0.1 - - [07/Apr/2025 13:10:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:10:37,499 - INFO - 127.0.0.1 - - [07/Apr/2025 13:10:37] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:10:43,760 - INFO - 127.0.0.1 - - [07/Apr/2025 13:10:43] "[35m[1mPOST /analyze_audio HTTP/1.1[0m" 500 -
+2025-04-07 13:10:50,785 - INFO - 127.0.0.1 - - [07/Apr/2025 13:10:50] "[35m[1mPOST /analyze_audio HTTP/1.1[0m" 500 -
+2025-04-07 13:11:16,905 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 13:11:17,238 - INFO -  * Restarting with stat
+2025-04-07 13:11:21,498 - WARNING -  * Debugger is active!
+2025-04-07 13:11:21,503 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:12:07,595 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:12:07,595 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:12:07,598 - INFO -  * Restarting with stat
+2025-04-07 13:12:11,623 - WARNING -  * Debugger is active!
+2025-04-07 13:12:11,628 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:12:11,656 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:11] "GET / HTTP/1.1" 200 -
+2025-04-07 13:12:11,813 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:11] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:12:11,814 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:12:16,991 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:12:18,069 - WARNING - No speech detected in the audio
+2025-04-07 13:12:18,122 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:18] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:12:21,426 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:12:22,493 - WARNING - No speech detected in the audio
+2025-04-07 13:12:22,544 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:22] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:12:24,280 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:12:25,337 - WARNING - No speech detected in the audio
+2025-04-07 13:12:25,388 - INFO - 127.0.0.1 - - [07/Apr/2025 13:12:25] "[31m[1mPOST /analyze_audio HTTP/1.1[0m" 400 -
+2025-04-07 13:12:52,936 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 13:12:53,221 - INFO -  * Restarting with stat
+2025-04-07 13:12:56,981 - WARNING -  * Debugger is active!
+2025-04-07 13:12:56,985 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:13:43,547 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:13:43,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:13:43,550 - INFO -  * Restarting with stat
+2025-04-07 13:13:47,138 - WARNING -  * Debugger is active!
+2025-04-07 13:13:47,142 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:13:47,167 - INFO - 127.0.0.1 - - [07/Apr/2025 13:13:47] "GET / HTTP/1.1" 200 -
+2025-04-07 13:13:47,302 - INFO - 127.0.0.1 - - [07/Apr/2025 13:13:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:13:47,321 - INFO - 127.0.0.1 - - [07/Apr/2025 13:13:47] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:13:52,344 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:13:56,103 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:13:57,208 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:13:58,325 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:13:58,404 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:13:58,488 - INFO - 127.0.0.1 - - [07/Apr/2025 13:13:58] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:14:08,082 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:14:13,051 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:14,188 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:15,311 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:15,316 - INFO - 127.0.0.1 - - [07/Apr/2025 13:14:15] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:14:23,699 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:14:28,770 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:29,929 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:31,162 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:14:31,166 - INFO - 127.0.0.1 - - [07/Apr/2025 13:14:31] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:16:28,807 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:16:28,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:16:28,809 - INFO -  * Restarting with stat
+2025-04-07 13:16:32,253 - WARNING -  * Debugger is active!
+2025-04-07 13:16:32,257 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:16:32,282 - INFO - 127.0.0.1 - - [07/Apr/2025 13:16:32] "GET / HTTP/1.1" 200 -
+2025-04-07 13:16:32,421 - INFO - 127.0.0.1 - - [07/Apr/2025 13:16:32] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-07 13:16:32,422 - INFO - 127.0.0.1 - - [07/Apr/2025 13:16:32] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:16:37,665 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:16:41,366 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:42,469 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:43,570 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:43,651 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:16:43,737 - INFO - 127.0.0.1 - - [07/Apr/2025 13:16:43] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:16:49,616 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:16:54,499 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:55,606 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:56,709 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:16:56,713 - INFO - 127.0.0.1 - - [07/Apr/2025 13:16:56] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:17:56,862 - INFO -  * Detected change in 'c:\\Users\\sansk\\OneDrive\\Desktop\\Music recommendation system\\app.py', reloading
+2025-04-07 13:17:57,232 - INFO -  * Restarting with stat
+2025-04-07 13:18:01,623 - WARNING -  * Debugger is active!
+2025-04-07 13:18:01,627 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:18:11,805 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 13:18:11,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 13:18:11,808 - INFO -  * Restarting with stat
+2025-04-07 13:18:15,850 - WARNING -  * Debugger is active!
+2025-04-07 13:18:15,855 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 13:18:15,883 - INFO - 127.0.0.1 - - [07/Apr/2025 13:18:15] "GET / HTTP/1.1" 200 -
+2025-04-07 13:18:16,031 - INFO - 127.0.0.1 - - [07/Apr/2025 13:18:16] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-07 13:18:16,039 - INFO - 127.0.0.1 - - [07/Apr/2025 13:18:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:18:21,215 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:18:26,661 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:27,803 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:29,006 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:29,086 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 13:18:29,178 - INFO - 127.0.0.1 - - [07/Apr/2025 13:18:29] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:18:37,945 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 13:18:42,773 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:43,914 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:45,084 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:18:45,088 - INFO - 127.0.0.1 - - [07/Apr/2025 13:18:45] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 13:18:59,558 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:00,661 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:01,785 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:01,789 - INFO - 127.0.0.1 - - [07/Apr/2025 13:19:01] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 13:19:11,676 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:12,822 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:13,973 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 13:19:13,978 - INFO - 127.0.0.1 - - [07/Apr/2025 13:19:13] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:28:17,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 14:28:17,061 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 14:28:17,063 - INFO -  * Restarting with stat
+2025-04-07 14:28:19,665 - WARNING -  * Debugger is active!
+2025-04-07 14:28:19,668 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 14:28:23,682 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:23] "GET / HTTP/1.1" 200 -
+2025-04-07 14:28:23,959 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 14:28:24,008 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-07 14:28:24,096 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 14:28:41,152 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 14:28:53,175 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:28:54,377 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:54] "GET / HTTP/1.1" 200 -
+2025-04-07 14:28:54,395 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:28:54,702 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 14:28:54,703 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:54] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-07 14:28:56,697 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:28:56,856 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 14:28:56,961 - INFO - 127.0.0.1 - - [07/Apr/2025 14:28:56] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 14:29:51,352 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:29:52,674 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:29:53,867 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:29:53,871 - INFO - 127.0.0.1 - - [07/Apr/2025 14:29:53] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:30:24,602 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:30:26,164 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:30:27,698 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:30:27,704 - INFO - 127.0.0.1 - - [07/Apr/2025 14:30:27] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:30:50,244 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 14:30:59,625 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:31:03,009 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:31:06,685 - ERROR - Failed to get time from API: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-07 14:31:06,692 - INFO - 127.0.0.1 - - [07/Apr/2025 14:31:06] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 14:31:41,250 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 14:31:46,266 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:31:47,471 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:31:48,595 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:31:48,600 - INFO - 127.0.0.1 - - [07/Apr/2025 14:31:48] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 14:32:03,459 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 14:32:07,694 - WARNING - Retry 1/2 for time API after error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-07 14:32:08,875 - WARNING - Retry 2/2 for time API after error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-07 14:32:10,056 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:32:10,062 - INFO - 127.0.0.1 - - [07/Apr/2025 14:32:10] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 14:32:39,525 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:32:40,696 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:32:41,855 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:32:41,859 - INFO - 127.0.0.1 - - [07/Apr/2025 14:32:41] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:33:06,396 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:33:07,577 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:33:08,706 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:33:08,709 - INFO - 127.0.0.1 - - [07/Apr/2025 14:33:08] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:33:25,732 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:33:26,904 - WARNING - Retry 2/2 for time API after error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-07 14:33:28,117 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:33:28,121 - INFO - 127.0.0.1 - - [07/Apr/2025 14:33:28] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 14:34:32,175 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 14:34:32,175 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 14:34:32,177 - INFO -  * Restarting with stat
+2025-04-07 14:34:35,190 - WARNING -  * Debugger is active!
+2025-04-07 14:34:35,194 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 14:34:40,887 - INFO - 127.0.0.1 - - [07/Apr/2025 14:34:40] "GET / HTTP/1.1" 200 -
+2025-04-07 14:34:41,192 - INFO - 127.0.0.1 - - [07/Apr/2025 14:34:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 14:34:41,203 - INFO - 127.0.0.1 - - [07/Apr/2025 14:34:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-07 14:34:41,292 - INFO - 127.0.0.1 - - [07/Apr/2025 14:34:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 14:34:56,489 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 14:35:00,787 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:35:02,020 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:35:03,244 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 14:35:03,323 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 14:35:03,415 - INFO - 127.0.0.1 - - [07/Apr/2025 14:35:03] "POST /analyze_audio HTTP/1.1" 200 -
+2025-04-07 15:09:25,787 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 15:09:25,788 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 15:09:25,790 - INFO -  * Restarting with stat
+2025-04-07 15:09:29,086 - WARNING -  * Debugger is active!
+2025-04-07 15:09:29,090 - INFO -  * Debugger PIN: 398-143-509
+2025-04-07 15:09:35,043 - INFO - 127.0.0.1 - - [07/Apr/2025 15:09:35] "GET / HTTP/1.1" 200 -
+2025-04-07 15:09:35,343 - INFO - 127.0.0.1 - - [07/Apr/2025 15:09:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-07 15:09:35,359 - INFO - 127.0.0.1 - - [07/Apr/2025 15:09:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-07 15:09:35,645 - INFO - 127.0.0.1 - - [07/Apr/2025 15:09:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 15:10:05,310 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:10:06,487 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:10:07,678 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:10:09,980 - INFO - Loading song dataset from high_popularity_spotify_data.csv
+2025-04-07 15:10:10,031 - INFO - 127.0.0.1 - - [07/Apr/2025 15:10:10] "POST /analyze_text HTTP/1.1" 200 -
+2025-04-07 15:11:01,624 - INFO - Loading Vosk model from vosk-model-small-en-us-0.15
+2025-04-07 15:11:06,742 - WARNING - Retry 1/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:11:07,888 - WARNING - Retry 2/2 for time API after error: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:11:09,029 - ERROR - Failed to get time from API: HTTPSConnectionPool(host='worldtimeapi.org', port=443): Max retries exceeded with url: /api/timezone/Asia/Kolkata (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-04-07 15:11:09,036 - INFO - 127.0.0.1 - - [07/Apr/2025 15:11:09] "POST /analyze_audio HTTP/1.1" 200 -
