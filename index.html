@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Music Recommender</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎵 Mood Music Recommender 🎵</h1>
+            <p class="subtitle">Get personalized music recommendations based on your mood, weather, and time of day</p>
+        </header>
+
+        <div class="input-section">
+            <div class="input-tabs">
+                <button class="tab-btn active" data-tab="text">Text Input</button>
+                <button class="tab-btn" data-tab="audio">Voice Input</button>
+            </div>
+
+            <div class="tab-content active" id="text-tab">
+                <textarea id="text-input" placeholder="How are you feeling today?"></textarea>
+                <button id="analyze-text" class="primary-btn">Analyze Mood</button>
+            </div>
+
+            <div class="tab-content" id="audio-tab">
+                <div class="audio-controls">
+                    <button id="record-btn" class="record-btn">
+                        <span class="record-icon"></span>
+                        Record
+                    </button>
+                    <div id="recording-status" class="recording-status"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="results" class="results-section hidden">
+            <div class="mood-info">
+                <h2>Your Mood Analysis</h2>
+                <div id="transcript-display" class="transcript-card hidden">
+                    <h3>Your Speech</h3>
+                    <p id="transcript-text"></p>
+                </div>
+                <div class="mood-details">
+                    <div class="mood-card">
+                        <h3>Current Mood</h3>
+                        <p id="mood-display"></p>
+                    </div>
+                    <div class="mood-card">
+                        <h3>Location</h3>
+                        <p id="location-display"></p>
+                    </div>
+                    <div class="mood-card">
+                        <h3>Weather</h3>
+                        <p id="weather-display"></p>
+                    </div>
+                    <div class="mood-card">
+                        <h3>Time of Day</h3>
+                        <p id="time-display"></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="recommendations">
+                <h2>Recommended Songs</h2>
+                <div id="recommendations-list" class="recommendations-list"></div>
+            </div>
+        </div>
+
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Analyzing your mood...</p>
+        </div>
+
+        <div id="error" class="error hidden">
+            <p></p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 
